@@ -1,0 +1,15 @@
+C:\Users\v-mimiel\aWork\GitHub\TechnicalNotes\BotFramework\Code\myEchoBot\myEchoBot\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\v-mimiel\aWork\GitHub\TechnicalNotes\BotFramework\Code\myEchoBot\myEchoBot\bin\Debug\netcoreapp2.1\myEchoBot.deps.json
+C:\Users\v-mimiel\aWork\GitHub\TechnicalNotes\BotFramework\Code\myEchoBot\myEchoBot\bin\Debug\netcoreapp2.1\myEchoBot.runtimeconfig.json
+C:\Users\v-mimiel\aWork\GitHub\TechnicalNotes\BotFramework\Code\myEchoBot\myEchoBot\bin\Debug\netcoreapp2.1\myEchoBot.runtimeconfig.dev.json
+C:\Users\v-mimiel\aWork\GitHub\TechnicalNotes\BotFramework\Code\myEchoBot\myEchoBot\bin\Debug\netcoreapp2.1\myEchoBot.dll
+C:\Users\v-mimiel\aWork\GitHub\TechnicalNotes\BotFramework\Code\myEchoBot\myEchoBot\bin\Debug\netcoreapp2.1\myEchoBot.pdb
+C:\Users\v-mimiel\aWork\GitHub\TechnicalNotes\BotFramework\Code\myEchoBot\myEchoBot\obj\Debug\netcoreapp2.1\myEchoBot.csprojAssemblyReference.cache
+C:\Users\v-mimiel\aWork\GitHub\TechnicalNotes\BotFramework\Code\myEchoBot\myEchoBot\obj\Debug\netcoreapp2.1\myEchoBot.csproj.CoreCompileInputs.cache
+C:\Users\v-mimiel\aWork\GitHub\TechnicalNotes\BotFramework\Code\myEchoBot\myEchoBot\obj\Debug\netcoreapp2.1\myEchoBot.RazorAssemblyInfo.cache
+C:\Users\v-mimiel\aWork\GitHub\TechnicalNotes\BotFramework\Code\myEchoBot\myEchoBot\obj\Debug\netcoreapp2.1\myEchoBot.RazorAssemblyInfo.cs
+C:\Users\v-mimiel\aWork\GitHub\TechnicalNotes\BotFramework\Code\myEchoBot\myEchoBot\obj\Debug\netcoreapp2.1\myEchoBot.AssemblyInfoInputs.cache
+C:\Users\v-mimiel\aWork\GitHub\TechnicalNotes\BotFramework\Code\myEchoBot\myEchoBot\obj\Debug\netcoreapp2.1\myEchoBot.AssemblyInfo.cs
+C:\Users\v-mimiel\aWork\GitHub\TechnicalNotes\BotFramework\Code\myEchoBot\myEchoBot\obj\Debug\netcoreapp2.1\myEchoBot.RazorTargetAssemblyInfo.cache
+C:\Users\v-mimiel\aWork\GitHub\TechnicalNotes\BotFramework\Code\myEchoBot\myEchoBot\obj\Debug\netcoreapp2.1\myEchoBot.dll
+C:\Users\v-mimiel\aWork\GitHub\TechnicalNotes\BotFramework\Code\myEchoBot\myEchoBot\obj\Debug\netcoreapp2.1\myEchoBot.pdb
