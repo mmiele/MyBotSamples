@@ -8,7 +8,6 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.Bot.Builder.Integration.AspNet.Core" Version="4.5.1" />
-    <PackageReference Include="Microsoft.Bot.Builder.StreamingExtensions" Version="4.5.1-preview1" />
   </ItemGroup>
 
     <ItemGroup>

@@ -11,13 +11,9 @@ using Microsoft.Bot.Builder.Integration.AspNet.Core;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-using Microsoft.Bot.Builder.StreamingExtensions;
+using DeployEchoBot.Bots;
 
-
-
-using EchoBotDL.Bots;
-
-namespace EchoBotDL
+namespace DeployEchoBot
 {
     public class Startup
     {
@@ -54,9 +50,6 @@ namespace EchoBotDL
 
             app.UseDefaultFiles();
             app.UseStaticFiles();
-
-            // Allow use of named pipes. 
-            app.UseBotFrameworkNamedPipe();
 
             //app.UseHttpsRedirection();
             app.UseMvc();

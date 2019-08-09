@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using Microsoft.Bot.Builder;
 using Microsoft.Bot.Schema;
 
-namespace EchoBotDL.Bots
+namespace DeployEchoBot.Bots
 {
     public class EchoBot : ActivityHandler
     {
@@ -24,7 +24,7 @@ namespace EchoBotDL.Bots
             {
                 if (member.Id != turnContext.Activity.Recipient.Id)
                 {
-                    await turnContext.SendActivityAsync(MessageFactory.Text($"Hello! I am the Direct Line bot!!"), cancellationToken);
+                    await turnContext.SendActivityAsync(MessageFactory.Text($"Hello! I am your bot on a boat."), cancellationToken);
                 }
             }
         }
