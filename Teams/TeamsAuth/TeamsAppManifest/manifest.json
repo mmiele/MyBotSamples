@@ -1,0 +1,42 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.3/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.3",
+  "version": "1.0.0",
+  "id": "eb90f0ad-07f7-4b9a-89e0-64e47d92cd9b",
+  "packageName": "com.teams.auth.bot",
+  "developer": {
+    "name": "BotTeamsAuth",
+    "websiteUrl": "https://www.microsoft.com",
+    "privacyUrl": "https://www.teams.com/privacy",
+    "termsOfUseUrl": "https://www.teams.com/termsofuse"
+  },
+  "icons": {
+    "color": "color.png",
+    "outline": "outline.png"
+  },
+  "name": {
+    "short": "BotTeamsAuth",
+    "full": "Teams Bot Authentication"
+  },
+  "description": {
+    "short": "BotTeamsAuth",
+    "full": "Teams Bot Authentication"
+  },
+  "accentColor": "#FFFFFF",
+  "bots": [
+    {
+      "botId": "eb90f0ad-07f7-4b9a-89e0-64e47d92cd9b",
+      "scopes": [
+        "groupchat",
+        "team"
+      ],
+      "supportsFiles": false,
+      "isNotificationOnly": false
+    }
+  ],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [ "token.botframework.com" ]
+}
