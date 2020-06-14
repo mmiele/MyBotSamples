@@ -1,0 +1,19 @@
+
+BotAuth (Linkedin App)
+
+	Client ID: 786q44dm7y1yjs
+	Client Secret: cZMU01h2pagmua1K
+
+
+	Redirect URL: https://token.botframework.com/.auth/web/redirect
+
+
+LinkedinBotAuth (Bot Channel Registration)
+
+	App ID (Client ID): 7c8f91b3-f40a-4117-870d-c43e737e742b
+	Client Secret: 77kIO3Kr.BWL6:h?.Q8B=iKomN.Zd@5_
+
+
+Azure publish
+
+	end point: https://linkedindbotauth.azurewebsites.net/api/messages
