@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="Bot.Builder.Community.Dialogs.FormFlow" Version="4.3.48" />
-    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="log4net" Version="2.0.10" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.Bot.Builder.Integration.AspNet.Core" Version="4.4.3" />
   </ItemGroup>
